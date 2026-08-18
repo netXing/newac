@@ -1,5 +1,5 @@
 // old  TCueSplitter.ParseCue had some bugs, I fixed it!(2026-06-12 by netXing)
-
+// CH:源代码中对.cue文件的解析有bug，导致在某种情况下解析错误，我已经修复了这个错误，并测试ok！
 (*
   This file is a part of New Audio Components package v 2.4
   Copyright (c) 2002-2009, Andrei Borovsky. All rights reserved.
